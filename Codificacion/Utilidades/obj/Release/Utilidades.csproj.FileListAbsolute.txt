@@ -1,5 +1,0 @@
-C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\bin\Release\Academia.Configuracion.dll
-C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\bin\Release\Academia.Configuracion.pdb
-C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\obj\Release\Utilidades.csprojResolveAssemblyReference.cache
-C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\obj\Release\Academia.Configuracion.dll
-C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\obj\Release\Academia.Configuracion.pdb
