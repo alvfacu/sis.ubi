@@ -1,0 +1,34 @@
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Utilidades\obj\Debug\Academia.Configuracion.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\bin\Debug\Academia.Configuracion.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\bin\Debug\Academia.Configuracion.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\obj\Debug\Academia.Configuracion.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\TC_Examenes\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\TC_Examenes\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\TC_Examenes\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\TC_Examenes\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\TC_Examenes\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Utilidades\obj\Debug\Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Utilidades\obj\Debug\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\bin\Debug\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\obj\Debug\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Utilidades\obj\Debug\Academia.Configuracion.pdb

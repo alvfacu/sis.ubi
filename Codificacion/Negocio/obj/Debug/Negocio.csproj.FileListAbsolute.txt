@@ -1,0 +1,77 @@
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\obj\Debug\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Negocio\obj\Debug\Academia.Negocio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\obj\Debug\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Negocio\obj\Debug\Academia.Negocio.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Negocio.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Negocio.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Datos.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Entidades.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Configuracion.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Datos.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Entidades.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Configuracion.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\obj\Debug\Academia.Negocio.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Nuevo\Negocio\obj\Debug\Academia.Negocio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\obj\Debug\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Negocio\obj\Debug\Academia.Negocio.pdb
+C:\TC_Examenes\Negocio\bin\Debug\Academia.Negocio.dll
+C:\TC_Examenes\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\TC_Examenes\Negocio\bin\Debug\Academia.Datos.dll
+C:\TC_Examenes\Negocio\bin\Debug\Entidades.dll
+C:\TC_Examenes\Negocio\bin\Debug\Academia.Configuracion.dll
+C:\TC_Examenes\Negocio\bin\Debug\Academia.Datos.pdb
+C:\TC_Examenes\Negocio\bin\Debug\Entidades.pdb
+C:\TC_Examenes\Negocio\bin\Debug\Academia.Configuracion.pdb
+C:\TC_Examenes\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\TC_Examenes\Negocio\obj\Debug\Academia.Negocio.dll
+C:\TC_Examenes\Negocio\obj\Debug\Academia.Negocio.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Academia.Negocio.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\obj\Debug\Academia.Negocio.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Negocio\obj\Debug\Academia.Negocio.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Academia.Negocio.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Academia.Negocio.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Academia.Datos.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Academia.Datos.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\bin\Debug\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\obj\Debug\Academia.Negocio.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Negocio\obj\Debug\Academia.Negocio.pdb

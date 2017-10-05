@@ -1,0 +1,318 @@
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Web.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Web.pdb
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Entidades.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Negocio.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Antlr3.Runtime.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.AspNet.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.Core.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\EntityFramework.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\System.Web.Optimization.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\System.Web.Providers.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\WebGrease.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Datos.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Configuracion.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Entidades.pdb
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Negocio.pdb
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\EntityFramework.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.Core.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\DotNetOpenAuth.AspNet.xml
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Datos.pdb
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\Academia.Configuracion.pdb
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\es\EntityFramework.resources.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\es\System.Web.Optimization.resources.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\es\System.Web.Providers.resources.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\BackUps\20150305\Academia-Nuevo\Web\obj\Debug\Web.dll
+E:\BackUps\20150305\Academia-Nuevo\Web\obj\Debug\Web.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Web.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Web.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Entidades.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Negocio.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Antlr3.Runtime.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.AspNet.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.Core.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\EntityFramework.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\System.Web.Optimization.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\System.Web.Providers.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\WebGrease.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Datos.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Configuracion.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Entidades.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Negocio.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\EntityFramework.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.Core.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\DotNetOpenAuth.AspNet.xml
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Datos.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Configuracion.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\es\EntityFramework.resources.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\es\System.Web.Optimization.resources.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\es\System.Web.Providers.resources.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\obj\Debug\Web.dll
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\obj\Debug\Web.pdb
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Escritorio.exe
+E:\BackUps\20150305 con Web\Academia-Nuevo\Web\bin\Academia.Escritorio.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Web.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Web.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Entidades.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Escritorio.exe
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Negocio.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Antlr3.Runtime.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.AspNet.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.Core.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OAuth.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OpenId.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\EntityFramework.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\System.Web.Optimization.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\System.Web.Providers.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\WebGrease.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Datos.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Configuracion.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Entidades.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Escritorio.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Negocio.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\EntityFramework.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.Core.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OAuth.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OpenId.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\DotNetOpenAuth.AspNet.xml
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Datos.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\Academia.Configuracion.pdb
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\es\EntityFramework.resources.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\es\System.Web.Optimization.resources.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\es\System.Web.Providers.resources.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\obj\Debug\Web.dll
+E:\Drop\Dropbox\TP2-NET\Academia-Yuri\Web\obj\Debug\Web.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Web.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Web.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Datos.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Escritorio.exe
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Negocio.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Antlr3.Runtime.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\EntityFramework.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\System.Web.Optimization.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\System.Web.Providers.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\WebGrease.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Configuracion.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Datos.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Escritorio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Negocio.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\EntityFramework.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\Academia.Configuracion.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\es\EntityFramework.resources.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\obj\Debug\Web.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Web\obj\Debug\Web.pdb
+C:\TC_Examenes\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\TC_Examenes\Web\bin\Web.dll
+C:\TC_Examenes\Web\bin\Web.pdb
+C:\TC_Examenes\Web\bin\Academia.Datos.dll
+C:\TC_Examenes\Web\bin\Academia.Negocio.dll
+C:\TC_Examenes\Web\bin\Antlr3.Runtime.dll
+C:\TC_Examenes\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\TC_Examenes\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.AspNet.dll
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.Core.dll
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.dll
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.dll
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\TC_Examenes\Web\bin\Entidades.dll
+C:\TC_Examenes\Web\bin\EntityFramework.dll
+C:\TC_Examenes\Web\bin\Escritorio.exe
+C:\TC_Examenes\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\TC_Examenes\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TC_Examenes\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TC_Examenes\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TC_Examenes\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\TC_Examenes\Web\bin\System.Web.Optimization.dll
+C:\TC_Examenes\Web\bin\System.Web.Providers.dll
+C:\TC_Examenes\Web\bin\WebGrease.dll
+C:\TC_Examenes\Web\bin\Academia.Configuracion.dll
+C:\TC_Examenes\Web\bin\Academia.Datos.pdb
+C:\TC_Examenes\Web\bin\Entidades.pdb
+C:\TC_Examenes\Web\bin\Escritorio.pdb
+C:\TC_Examenes\Web\bin\Academia.Negocio.pdb
+C:\TC_Examenes\Web\bin\EntityFramework.xml
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.Core.xml
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.xml
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.xml
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\TC_Examenes\Web\bin\DotNetOpenAuth.AspNet.xml
+C:\TC_Examenes\Web\bin\Academia.Configuracion.pdb
+C:\TC_Examenes\Web\bin\es\EntityFramework.resources.dll
+C:\TC_Examenes\Web\bin\es\System.Web.Optimization.resources.dll
+C:\TC_Examenes\Web\bin\es\System.Web.Providers.resources.dll
+C:\TC_Examenes\Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\TC_Examenes\Web\obj\Debug\Web.dll
+C:\TC_Examenes\Web\obj\Debug\Web.pdb
+C:\TC_Examenes\Web\bin\GMaps.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Web.dll.config
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Web.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Web.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Academia.Datos.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Academia.Negocio.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Antlr3.Runtime.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\EntityFramework.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\GMaps.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\System.Web.Optimization.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\System.Web.Providers.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\TimePicker.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\WebGrease.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\stdole.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Academia.Datos.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Academia.Negocio.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\EntityFramework.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\es\EntityFramework.resources.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\obj\Debug\Web.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Web\obj\Debug\Web.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Web.dll.config
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Web.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Web.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Academia.Datos.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Academia.Negocio.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Antlr3.Runtime.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\EntityFramework.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\GMaps.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\System.Net.Http.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\System.Web.Optimization.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\System.Web.Providers.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\TimePicker.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\WebGrease.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Academia.Configuracion.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Mono.Math.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\stdole.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Academia.Datos.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Academia.Negocio.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\EntityFramework.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\System.Net.Http.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Academia.Configuracion.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\Mono.Math.xml
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\bin\es\System.Web.Providers.resources.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\obj\Debug\Web.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Web\obj\Debug\Web.pdb

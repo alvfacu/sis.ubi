@@ -1,0 +1,6 @@
+Hemos seguido este tutorial para publicar la aplicación:
+https://www.youtube.com/watch?v=oVFI4KiBPys
+
+FileZilla: https://filezilla-project.org/
+Somee: https://somee.com/
+Panel de Control Somee: https://somee.com/DOKA/DOLogin.aspx

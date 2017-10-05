@@ -1,0 +1,5 @@
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\bin\Release\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\bin\Release\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\obj\Release\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\obj\Release\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache

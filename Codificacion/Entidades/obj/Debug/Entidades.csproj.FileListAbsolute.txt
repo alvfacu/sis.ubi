@@ -1,0 +1,34 @@
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Desktop\TP2-NET\Academia\Entidades\obj\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia\Entidades\obj\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Rana\Entidades\obj\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Entidades\bin\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Entidades\bin\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Entidades\obj\Debug\Academia.Entidades.dll
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Entidades\obj\Debug\Academia.Entidades.pdb
+C:\Users\Gonzalo\Dropbox\TP2-NET\Academia-Nuevo\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\TC_Examenes\Entidades\bin\Debug\Entidades.dll
+C:\TC_Examenes\Entidades\bin\Debug\Entidades.pdb
+C:\TC_Examenes\Entidades\obj\Debug\Entidades.dll
+C:\TC_Examenes\Entidades\obj\Debug\Entidades.pdb
+C:\TC_Examenes\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\NET\TC_Examenes\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facundo\Documents\NET\TC_Examenes FRAMEWORK 4\Entidades\obj\Debug\Entidades.pdb

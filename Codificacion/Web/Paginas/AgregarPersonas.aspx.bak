@@ -1,0 +1,24 @@
+﻿<%@ Page Title="Agregar Personas" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AgregarPersonas.aspx.cs" Inherits="Web.Paginas.AgregarPersonas" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>Universidad Tecnológica Nacional Facultad Regional Rosario</h1>
+                <h2></h2>
+            </hgroup>
+            <p>
+<%--                Bienvenidos al Sysacad--%>
+            </p>
+        </div>
+    </section>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
+    <br />
+    <br />
+    <asp:Button ID="lbImportarPersonas" runat="server" OnClick="lbImportarPersonas_Click" Font-Bold="True" Font-Size="Large" Text="Importar Personas"/>
+    <asp:Button ID="lbAgregarPersona" runat="server" OnClick="lbAgregarPersona_Click" Font-Bold="True" Font-Size="Large" Text="Agregar Persona Manualmente"/>
+    <asp:Button ID="lbListadoPersonas" runat="server" OnClick="lbListadoPersonas_Click" Font-Bold="True" Font-Size="Large" Text="Listado de Personas"/>    
+</asp:Content>
